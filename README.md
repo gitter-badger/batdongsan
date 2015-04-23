@@ -5,6 +5,8 @@ Sample code for the [demo application](https://github.com/heroku/devcenter-sprin
 
 ## Prerequisites
 
+[![Join the chat at https://gitter.im/hoangen/batdongsan](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hoangen/batdongsan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * Java, Maven, Git, and the Heroku client (as described in the [basic Java quickstart](java))
 * An installed version of [Postgres](http://www.postgresql.org/) to test locally
 
